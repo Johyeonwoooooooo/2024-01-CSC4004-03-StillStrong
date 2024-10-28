@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://still88db.cbaamqy88abn.ap-northeast-2.rds.amazonaws.com:3306/still88?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: root
-    password: zpalq,123098!@#
+    password: 
 
   security:
     user:
